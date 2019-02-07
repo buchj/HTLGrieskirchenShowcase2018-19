@@ -30,10 +30,16 @@
         "year": "2018_WS",
 	    "info": "Stickfight game, Controls: WASD, arrow keys",
         "status": 1
-    }
-	,
-    }
-
+    },
+	{
+        "title": "Stickbrawl",
+        "folder": "Stickbrawl",
+        "author": "Jakob Schwarz",
+        "year": "2018_WS",
+	    "info": "Stickfight game, Controls: WASD, arrow keys",
+        "status": 1
+    },
+	{
         "title": "DualStick 1v1 SpaceShooter",
         "folder": "SpaceShooter",
         "author": "Johannes Buchenberger",
